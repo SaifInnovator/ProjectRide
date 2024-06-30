@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373197652392",
+    "project_id": "projectride-424212",
+    "storage_bucket": "projectride-424212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373197652392:android:316a1a9c14383a604edd9d",
+        "android_client_info": {
+          "package_name": "com.projectride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtlJdBTY83PJlnSt1cvwM9JGnpuf5k0hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

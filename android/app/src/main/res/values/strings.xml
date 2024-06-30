@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjectRide</string>
+    <string name="splash_screen_image">@drawable/launch_screen</string>
+
+</resources>
